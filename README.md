@@ -1,5 +1,5 @@
 # Django_Blog_Website
-ChatGPT said: Django Blog App is a full-stack web app where users can register, log in, create blog posts, view their posts, and explore others’ content on the homepage. Built with Django, it helps you learn authentication, models, views, templates, and dynamic content filtering in a real-world project.
+Django Blog App is a full-stack web app where users can register, log in, create blog posts, view their posts, and explore others’ content on the homepage. Built with Django, it helps you learn authentication, models, views, templates, and dynamic content filtering in a real-world project.
 # 📝 Django Blog App
 
 A beginner-friendly, feature-rich Blog Application built using Django. This app allows users to register, authenticate, create blog posts, and view posts from other users on the homepage. Perfect for those looking to strengthen their Django skills by working on a real-world project.
